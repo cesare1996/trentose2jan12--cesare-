@@ -1,0 +1,19 @@
+{
+  "name": "trentose2jan12--cesare-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesare1996/trentose2jan12--cesare-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesare1996/trentose2jan12--cesare-/issues"
+  },
+  "homepage": "https://github.com/cesare1996/trentose2jan12--cesare-#readme"
+}
